@@ -1,0 +1,23 @@
+{
+  "name": "solana-airdrop-checker",
+  "version": "1.0.0",
+  "description": "Checker for Trade.fun Solana wallet airdrop verification",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "colors": "^1.4.0",
+    "https-proxy-agent": "^7.0.6"
+  },
+  "keywords": [
+    "solana",
+    "airdrop",
+    "checker",
+    "trade.fun"
+  ],
+  "author": "",
+  "license": "MIT"
+}
